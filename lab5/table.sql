@@ -1,3 +1,6 @@
+USE MilitaryDistrictRelations
+GO
+
 -- Creating the Person table
 CREATE TABLE Person (
     [Id] INT IDENTITY(1,1) PRIMARY KEY,
