@@ -1,4 +1,5 @@
 use MilitaryDistrict
+GO
 
 UPDATE [Location]
 SET 
