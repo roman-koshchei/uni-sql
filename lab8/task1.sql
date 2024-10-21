@@ -13,4 +13,3 @@ JOIN Person ON Companies.Id = Person.CompanyId
 GO
 
 SELECT * FROM UnitsAndPersonnelView
-GO
